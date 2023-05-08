@@ -1,0 +1,5 @@
+//timestamp output
+
+1683561233534
+date 2023-05-08T15:53:53.542Z
+utc Mon, 08 May 2023 15:53:53 GMT
