@@ -1,5 +1,3 @@
-const fs = require("fs");
-
 const express = require("express");
 
 /// time stamp
